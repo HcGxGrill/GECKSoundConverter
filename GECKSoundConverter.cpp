@@ -8,8 +8,8 @@
 #include "main.h"
 #include "resource.h"
 
-int versionMajor = 0;
-int versionMinor = 1;
+int versionMajor = 1;
+int versionMinor = 0;
 
 std::string programName = "GECK Sound Converter";
 std::string programFilePath = "";
